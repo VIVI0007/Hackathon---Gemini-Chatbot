@@ -1,5 +1,5 @@
 # Gemini PDF Chatbot
-
+![Screenshot of the chatbot](image.png "Screenshot")
 ## Overview
 The Gemini PDF Chatbot is an intelligent system designed to extract information from uploaded PDF documents and respond to user queries based on the document content. This project integrates modern AI tools and APIs for effective document processing and conversational interactions.
 
